@@ -1,0 +1,6 @@
+{
+  "name": "VALS Tracking Enterprise ERP & GPS Platform",
+  "description": "Enterprise Fleet & GPS Operations Management Platform with integrated ERP, Field Service Management, Live Telematics, CRM, Inventory, and Billing for VALS Tracking (Private) Limited.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

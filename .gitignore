@@ -1,0 +1,23 @@
+node_modules/
+/vendor/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env
+.env.backup
+.env.production
+!.env.example
+
+# Laravel storage framework caches
+/storage/framework/cache/*
+!/storage/framework/cache/.gitignore
+/storage/framework/sessions/*
+!/storage/framework/sessions/.gitignore
+/storage/framework/views/*
+!/storage/framework/views/.gitignore
+/storage/logs/*
+!/storage/logs/.gitignore
+/bootstrap/cache/*
+!/bootstrap/cache/.gitignore
